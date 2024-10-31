@@ -1,0 +1,7 @@
+
+.pes-pdf-scrollable--viewer {
+    overflow-y: scroll;
+}
+.pes-pdf-scrollable--viewer canvas {
+    width: 100%;
+}
